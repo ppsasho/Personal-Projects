@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(55, 10, 102);
+    color: rgb(255, 255, 255);
+}
+p {
+    font-size: larger;
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
+#sketchBox {
+    display: flex;
+    justify-content: center;
+}
+#sketch {
+    width: 400px;
+    height: 250px;
+    border: 3px dotted white;
+}
+#hint {
+    padding: 30px;
+    font-weight: bolder;
+    background-color: rgb(55, 10, 102);
+    color: white;
+    border: 2px solid white;
+}
+#hint:active {
+    background-color: white;
+    color: rgb(55, 10, 102);
+}
+#playAgain  {
+    padding: 30px;
+    font-weight: bolder;
+    background-color: rgb(55, 10, 102);
+    color: white;
+    border: 2px solid white;
+}
+#playAgain:active {
+    background-color: white;
+    color: rgb(55, 10, 102);
+}
+button {
+    padding: 10px;
+    margin: 5px;
+    font-size: larger;
+    color: rgb(55, 10, 102);
+    border-color: white;
+    border-style: none;
+    border-radius: 5px;
+}

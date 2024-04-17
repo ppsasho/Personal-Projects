@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero's Journey", "Hero's Journey\Hero's Journey.csproj", "{8D775EC1-7031-45DA-8B88-2775DB546EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{7D9E87F3-A586-438F-847A-3744E66F869F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D775EC1-7031-45DA-8B88-2775DB546EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D775EC1-7031-45DA-8B88-2775DB546EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D775EC1-7031-45DA-8B88-2775DB546EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D775EC1-7031-45DA-8B88-2775DB546EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9E87F3-A586-438F-847A-3744E66F869F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9E87F3-A586-438F-847A-3744E66F869F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9E87F3-A586-438F-847A-3744E66F869F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9E87F3-A586-438F-847A-3744E66F869F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98DAA59-A580-4430-ABF2-971765FC8D32}
+	EndGlobalSection
+EndGlobal

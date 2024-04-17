@@ -1,0 +1,19 @@
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Hero's Journey.exe
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Hero's Journey.deps.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Hero's Journey.runtimeconfig.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Hero's Journey.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Hero's Journey.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Models.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\bin\Debug\net6.0\Models.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.csproj.AssemblyReference.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.csproj.CoreCompileInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.sourcelink.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's J.677C0B55.Up2Date
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\refint\Hero's Journey.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\Hero's Journey.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 10\Hero's Journey\Hero's Journey\Hero's Journey\obj\Debug\net6.0\ref\Hero's Journey.dll

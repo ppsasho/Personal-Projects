@@ -1,0 +1,112 @@
+
+body {
+    background-color: rgb(47, 92, 175);
+    font-family: arial;
+}
+h1 {
+    color: white;
+}
+button{
+    border-radius: 0;
+    padding: none;
+    border-style: none;
+    border: 1px solid black;
+    font-size: xx-large;
+
+}
+button:active{
+    background-color: rgb(131, 124, 124);
+}
+.container {
+    margin: 0;
+    height: 100%;
+    display: flex;
+}
+.calculator {
+    width: 25vw;
+    height: 35vw;
+    display: grid;
+    border: 8px outset rgb(55, 10, 102);
+    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas: 
+                        'view view view view'
+                        'clear clear backS div'
+                        'seven eight nine mul'
+                        'four five six subt'
+                        'one two three addi'
+                        'dec zero zero equals';
+}
+#display {
+    display: flex;
+    background-color: black;
+    color: white;
+    grid-area: view; 
+    font-size: x-large;
+    text-align:end ;
+}
+#display->:first-child {
+    float: right;
+}
+#clear {
+    grid-area: clear;
+}
+#backSpace {
+    grid-area: backS;
+}
+#divide {
+    grid-area: div;
+}
+#seven {
+    grid-area: seven;
+}
+#eight {
+    grid-area: eight;
+}
+#nine {
+    grid-area: nine;
+}
+#multiply {
+    grid-area: mul;
+}
+#four {
+    grid-area: four;
+}
+#five {
+    grid-area: five;
+}
+#six {
+    grid-area: six;
+}
+#subtract {
+    grid-area: subt;
+}
+#one {
+    grid-area: one;
+}
+#two {
+    grid-area: two;
+}
+#three {
+    grid-area: three;
+}
+#addition {
+    grid-area: addi;
+}
+#decimal {
+    grid-area: dec;
+}
+#zero {
+    grid-area: zero;
+}
+#equals {
+    grid-area: equals;
+}
+
+.special-function {
+    color: white;
+    background-color: rgb(223, 151, 75);
+}
+.special-function:active {
+    background-color: rgb(128, 88, 47);
+}

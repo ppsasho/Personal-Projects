@@ -9,3 +9,4 @@ providing insights into the problem it solves or the concept it explores.
 ### JediArchives - https://github.com/ppsasho/SEDC-Advanced-JS/tree/main/homeWork/class%2005
 ### Hero's Journey - https://github.com/ppsasho/Csharp/tree/main/homeWork/class%2010/Hero's%20Journey
 ### Try Being Fit - https://github.com/ppsasho/Advanced-Csharp/tree/main/homeWork/TryBeingFitApp
+### Time Tracking - https://github.com/ppsasho/Advanced-Csharp/tree/main/homeWork/Time%20Tracking%20App

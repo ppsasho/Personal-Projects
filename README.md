@@ -11,4 +11,4 @@ providing insights into the problem it solves or the concept it explores.
 ### [Try Being Fit](https://github.com/ppsasho/Advanced-Csharp/tree/main/homeWork/TryBeingFitApp)
 ### [Time Tracking](https://github.com/ppsasho/Advanced-Csharp/tree/main/homeWork/Time%20Tracking%20App)
 ### [Video Rental Online Store](https://github.com/ppsasho/ASP.NET-MVC/tree/main/homework/Video%20Rental%20Online%20Store/Video%20Rental)
-### [Beverage Store API]([https://github.com/ppsasho/ASP.NET-MVC/tree/main/homework/Video%20Rental%20Online%20Store/Video%20Rental](https://github.com/ppsasho/ASP.NET-WEB-API/tree/main/homework/BeverageStore))
+### [Beverage Store API](https://github.com/ppsasho/ASP.NET-WEB-API/tree/main/homework/BeverageStore)
